@@ -1,0 +1,2 @@
+# Discord Channel List Toggle
+This [ViolentMonkey](https://violentmonkey.github.io/) script adds an arrow to the header of a channel on Discord to allow you to toggle visibility of the channel list on the left-hand side. This is useful for vertical screen orientations as there is often not enough space left to read messages.
